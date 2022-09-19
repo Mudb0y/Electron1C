@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mudb0y/electron1c/issues"
   },
-  "homepage": "https://github.com/mudb0y/electron1c#readme"
+  "homepage": "https://github.com/mudb0y/electron1c#readme",
+  "dependencies": {
+    "electron": "^20.1.4"
+  }
 }
