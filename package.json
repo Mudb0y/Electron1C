@@ -1,0 +1,19 @@
+{
+  "name": "electron1c",
+  "version": "0.0.1",
+  "description": "Electron wrapper around Apple Music Web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mudb0y/electron1c.git"
+  },
+  "author": "Stanislaw Przedzinkowski <stasprzecinek@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/mudb0y/electron1c/issues"
+  },
+  "homepage": "https://github.com/mudb0y/electron1c#readme"
+}
