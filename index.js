@@ -6,9 +6,7 @@ let mainWindow
 
 function createWindow () {
   mainWindow = new BrowserWindow({width: 800, height: 600})
-
   mainWindow.loadURL(`https://music.apple.com/`)
-
   mainWindow.on('closed', function () {
     mainWindow = null
   })
